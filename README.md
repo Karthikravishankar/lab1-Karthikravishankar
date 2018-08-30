@@ -11,3 +11,5 @@ Biological energy research
 Research, thinking, conversing
 
 Grouping similar ideas/classes together, continually reading information, doing outside reading/thinking
+
+hellooo
